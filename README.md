@@ -294,8 +294,6 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Simultaneous Translation for Unsegmented Input: A Sliding Window Approach. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2210.09754.pdf)]
 
-- MT Metrics Correlate with Human Ratings of Simultaneous Speech Translation (Technical Report). *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2211.08633.pdf)]
-
 - Attention as a guide for Simultaneous Speech Translation. *Arxiv 2022*. [[PDF](https://arxiv.org/pdf/2212.07850.pdf)]
 
 ### <a id="2023">2023</a>
@@ -361,6 +359,8 @@ We also collect a paper list organized by different categories. Refer to [Here](
 - Unified Segment-to-Segment Framework for Simultaneous Sequence Generation. *NeurIPS 2023*. [[PDF](https://arxiv.org/pdf/2310.17940.pdf)][[Code](https://github.com/ictnlp/Seg2Seg)]
 
 - Efficient Monotonic Multihead Attention.*Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04515.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
+
+- Turning Whisper into Real-Time Transcription System. *AACL 2023*. [[PDF](https://aclanthology.org/2023.ijcnlp-demo.3/)][Code](https://github.com/ufal/whisper_streaming)]
 
 ### <a id="2024">2024</a>
 
