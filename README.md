@@ -360,7 +360,7 @@ We also collect a paper list organized by different categories. Refer to [Here](
 
 - Efficient Monotonic Multihead Attention.*Arxiv 2023*. [[PDF](https://arxiv.org/pdf/2312.04515.pdf)][[Code](https://github.com/facebookresearch/seamless_communication)]
 
-- Turning Whisper into Real-Time Transcription System. *AACL 2023*. [[PDF](https://aclanthology.org/2023.ijcnlp-demo.3/)][Code](https://github.com/ufal/whisper_streaming)]
+- Turning Whisper into Real-Time Transcription System. *AACL 2023*. [[PDF](https://aclanthology.org/2023.ijcnlp-demo.3/)][[Code](https://github.com/ufal/whisper_streaming)]
 
 ### <a id="2024">2024</a>
 
